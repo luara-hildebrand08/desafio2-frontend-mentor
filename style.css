@@ -17,18 +17,29 @@
 
 body {
     background-color: var(--cream-color);
-    height: 100vh;
+    min-height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
+    padding-top: 80px;
+    padding-bottom: 180px;
 }
 
 .card {
     width: 350px;
     background-color: var(--white-color);
+    border-radius: 10px; 
+    overflow: hidden; /* a imagem corta e respeita o border radius*/
 }
 
 .product {
     width: 100%;
+}
+
+.card-content {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    padding: 25px;
 }
 
