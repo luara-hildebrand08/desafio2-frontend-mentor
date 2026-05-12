@@ -13,6 +13,10 @@
     --white-color: hsl(0, 0%, 100%);
 }
 
+.desktop-view {
+    display: none;
+}
+
 body {
     background-color: var(--cream-color);
     min-height: 100vh;
@@ -30,7 +34,7 @@ body {
     overflow: hidden; /* a imagem corta e respeita o border radius*/
 }
 
-.product {
+.mobile-view {
     width: 100%;
 }
 
@@ -102,5 +106,23 @@ h1 {
 }
 
 @media (min-width: 1440px) {
-    
+    .mobile-view {
+        display: none;
+    }
+
+    body {
+        padding: 0;
+    }
+
+    .card {
+        display: flex;
+        width: 600px;
+        height: 450px;
+    }
+
+    .desktop-view {
+        display: block;
+        width: 300px;
+    }
+
 }
