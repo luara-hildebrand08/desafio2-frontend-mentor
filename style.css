@@ -17,7 +17,7 @@
 
 body {
     max-width: 375px;
-    min-height: 100vh;
+    max-height: 100vh;
     background-color: var(--cream-color);
     display: flex;
     justify-content: center;
@@ -30,7 +30,7 @@ body {
 
 .product {
     height: 320px;
-    margin-top: 80px;
+    margin-top: 40px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
 }
@@ -66,4 +66,20 @@ h1 {
     color: var(--text-color);
     font-size: .85rem;
     font-weight: 500;
+}
+
+.current-price {
+    margin-left: 30px;
+    font-family: "Fraunces", serif;
+    color: var(--primary1-color);
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.old-price {
+    color: var(--text-color);
+    font-size: .8rem;
+    font-weight: 500;
+    text-decoration: line-through;
+    padding-left: 10px;
 }
