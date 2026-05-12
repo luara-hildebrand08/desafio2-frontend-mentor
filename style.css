@@ -12,3 +12,9 @@
     --cream-color: hsl(30, 38%, 92%);
     --white-color: hsl(0, 0%, 100%);
 }
+
+body {
+    max-width: 375px;
+    height: 100vh;
+    background-color: var(--cream-color);
+}
