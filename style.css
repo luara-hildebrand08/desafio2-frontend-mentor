@@ -3,7 +3,6 @@
     padding: 0;
     box-sizing: border-box;
     /*font-family: "Montserrat", sans-serif;*/
-    /* font-family: "Montserrat", sans-serif;*/
 }
 
 :root {
@@ -42,9 +41,11 @@ body {
     gap: 25px;
     padding: 25px;
 }
+p, button {
+    font-family: "Montserrat", sans-serif;
+}
 
 p {
-    font-family: "Montserrat", sans-serif;;
     color: var(--text-color);
     font-size: .95rem;
     font-weight: 500;
@@ -54,3 +55,13 @@ p {
     font-size: .8rem;
     letter-spacing: 4px;
 }
+
+h1, span {
+    font-family: "Fraunces", serif;
+}
+
+h1 {
+    font-size: 2rem;
+    color: var(--title-color);
+}
+
