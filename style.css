@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Montserrat", sans-serif;
+    /*font-family: "Montserrat", sans-serif;*/
     /* font-family: "Montserrat", sans-serif;*/
 }
 
@@ -13,5 +13,22 @@
     --text-color: hsl(228, 12%, 48%);
     --cream-color: hsl(30, 38%, 92%);
     --white-color: hsl(0, 0%, 100%);
+}
+
+body {
+    background-color: var(--cream-color);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card {
+    width: 350px;
+    background-color: var(--white-color);
+}
+
+.product {
+    width: 100%;
 }
 
