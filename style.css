@@ -17,8 +17,10 @@
 
 body {
     max-width: 375px;
-    height: 100vh;
+    min-height: 100vh;
     background-color: var(--cream-color);
+    display: flex;
+    justify-content: center;
     text-align: center;
 }
 
@@ -29,8 +31,13 @@ body {
 .product {
     height: 320px;
     margin-top: 80px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px
 }
 
 .card-content {
     background-color: var(--white-color);
+    margin: 0 16px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
 }
