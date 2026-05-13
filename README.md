@@ -17,4 +17,4 @@ Este projeto apresenta um cartão de pré-visualização de produto desenvolvido
 - Mobile First
 - Pseudo classes (`:hover`)
 - Media Queries
-- Variáveis CSS (:root)
+- Variáveis CSS (`:root`)
