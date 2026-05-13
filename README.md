@@ -1,5 +1,7 @@
 # Frontend Mentor -  Solução para componente de cartão de pré-visualização de produto para Desktop e Mobile
 
 ## Prévia do Design para Mobile
-![Prévia do design para Mobile]
-(./design/minha_resolucao_mobile.png.png)
+![Prévia do design para Mobile](./design/minha_resolucao_mobile.png)
+
+## Prévia do Design para Desktop
+![Prévia do design para Desktop](./design/minha_resolucao_desktop.png)
