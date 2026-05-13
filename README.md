@@ -2,4 +2,4 @@
 
 ## Prévia do Design para Mobile
 ![Prévia do design para Mobile]
-(./design/minha_resolucao_mobile.png)
+(./design/minha_resolucao_mobile.png.png)
