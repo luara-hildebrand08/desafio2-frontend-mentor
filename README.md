@@ -9,6 +9,7 @@ Este projeto apresenta um cartão de pré-visualização de produto desenvolvido
 ## Prévia do Design para Desktop
 ![Prévia do design para Desktop](./design/minha_resolucao_desktop.png)
 
+
 ## Conceitos Praticados
 - Estrutura semântica com HTML5
 - CSS
