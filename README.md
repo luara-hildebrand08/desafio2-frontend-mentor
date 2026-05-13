@@ -9,3 +9,4 @@ Este projeto apresenta um cartão de pré-visualização de produto, onde os usu
 ## Prévia do Design para Desktop
 ![Prévia do design para Desktop](./design/minha_resolucao_desktop.png)
 
+.
