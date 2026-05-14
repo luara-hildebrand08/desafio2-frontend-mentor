@@ -88,6 +88,7 @@ h1 {
 }
 
 .btn {
+    cursor: pointer;
     display: flex;
     justify-content: center;
     gap: 10px;
