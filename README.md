@@ -32,10 +32,27 @@ Você precisa ter:
 3. Abra o `index.html` no navegador
 
 ### Opção 2 - Clonar com o git
-#### Pré-requisito:
+#### Pré-requisito
 - Git instalado
 
 1. No terminal clone o projeto da seguinte forma:
 ```bash
 git clone https://github.com/luara-hildebrand08/desafio2-frontend-mentor.git
+```
 
+##  📂 Estrutura do projeto
+
+```txt
+ 📂 desafio2-frontend-mentor
+  ├── 📁 images
+  |    ├── image-product-mobile.jpg
+  |    ├── image-product-desktop.jpg
+  |    └── icon-cart.svg
+  |
+  ├── index.html
+  ├── style.css
+  └── README.md
+  ```
+
+## Autora
+Feito por Luara de Lana Lima Hildebrand
