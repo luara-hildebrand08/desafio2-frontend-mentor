@@ -48,7 +48,6 @@ git clone https://github.com/luara-hildebrand08/desafio2-frontend-mentor.git
   |    ├── image-product-mobile.jpg
   |    ├── image-product-desktop.jpg
   |    └── icon-cart.svg
-  |
   ├── index.html
   ├── style.css
   └── README.md
